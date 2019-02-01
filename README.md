@@ -14,4 +14,7 @@ Clima is a location-aware weather app. It will find out where you are in the wor
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/AnthonyJean/Clima/master/screenshot1.png) ![](https://raw.githubusercontent.com/AnthonyJean/Clima/master/screenshot2.png)
+<p align="center">
+  <img width="300" src="https://raw.githubusercontent.com/AnthonyJean/Clima/master/screenshot1.png">
+  <img width="300" src="https://raw.githubusercontent.com/AnthonyJean/Clima/master/screenshot2.png">
+</p>
