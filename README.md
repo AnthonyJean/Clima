@@ -11,3 +11,7 @@ Clima is a location-aware weather app. It will find out where you are in the wor
 * Parsing data organised in JSON format.
 * Utilising the iPhone’s inbuilt GPS. 
 * Navigation between View Controllers using Segues.
+
+## Screenshots
+
+![](https://raw.githubusercontent.com/AnthonyJean/Clima/master/screenshot1.png) ![](https://raw.githubusercontent.com/AnthonyJean/Clima/master/screenshot2.png)
